@@ -1,0 +1,8 @@
+/***** Dashboard Info Widget *****/
+
+.admin-theme-thumb { background: #fff; text-align: center; border: 1px solid #ebebeb; }
+
+/***** Widgets Custom CSS *****/
+
+#widget-list [id*='_mh_'] .widget-top { background: #0074a2; color: #fff; }
+.widget-separator { font-size: 18px; font-weight: 600; border-bottom: 2px solid #ddd; }

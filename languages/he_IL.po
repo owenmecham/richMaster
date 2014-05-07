@@ -1,0 +1,1905 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MH Magazine v2.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-03-14 13:48:52+0000\n"
+"Last-Translator: Michael Hebenstreit <mail@michael-hebenstreit.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: includes/mh-content.php:76
+#: includes/mh-content.php:422
+#: includes/widgets/mh-custom-posts.php:64
+#: includes/widgets/mh-custom-posts.php:80
+#: includes/widgets/mh-spotlight.php:54
+#@ mh
+msgid "0 Comments"
+msgstr "0 תגובות"
+
+#: includes/mh-content.php:76
+#: includes/mh-content.php:422
+#: includes/widgets/mh-custom-posts.php:64
+#: includes/widgets/mh-custom-posts.php:80
+#: includes/widgets/mh-spotlight.php:54
+#@ mh
+msgid "1 Comment"
+msgstr "1 תגובה"
+
+#: includes/mh-content.php:76
+#: includes/mh-content.php:422
+#: includes/widgets/mh-custom-posts.php:64
+#: includes/widgets/mh-custom-posts.php:80
+#: includes/widgets/mh-spotlight.php:54
+#@ mh
+msgid "% Comments"
+msgstr "% תגובות"
+
+#: sitemap.php:16
+#@ mh
+msgid "Pages"
+msgstr "דפים"
+
+#: sitemap.php:29
+#@ mh
+msgid "Categories"
+msgstr "קטגוריות"
+
+#: sitemap.php:31
+#@ mh
+msgid "No categories"
+msgstr "אין קטגוריות"
+
+#: includes/mh-custom-functions.php:50
+#: includes/widgets/mh-authors.php:31
+#: includes/widgets/mh-authors.php:34
+#@ mh
+msgid "Articles by "
+msgstr "המודעה נכתבה על ידי"
+
+#: comments.php:20
+#: includes/mh-content.php:193
+#: includes/mh-custom-functions.php:198
+#@ mh
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: comments.php:20
+#: includes/mh-content.php:193
+#: includes/mh-custom-functions.php:198
+#@ mh
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: comments.php:5
+#@ mh
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "המודעה מוגנת בסיסמא. בבקשה הכנס את הסיסמא בשביל לראות את התגובות"
+
+#: comments.php:39
+#@ mh
+msgid "Leave a comment"
+msgstr "השאר תגובה"
+
+#: comments.php:40
+#@ mh
+msgid "Your email address will not be published."
+msgstr "כתובת האימייל שלך לא תפורסם"
+
+#: comments.php:12
+#: comments.php:42
+#@ mh
+msgid "Comment"
+msgstr "תגובה"
+
+#: functions.php:98
+#@ mh
+msgid "Main Navigation"
+msgstr "תפריט ראשי"
+
+#: functions.php:142
+#@ mh
+msgid "Header"
+msgstr "ראש הדף"
+
+#: functions.php:143
+#@ mh
+msgid "Sidebar"
+msgstr "תפריט צד"
+
+#: functions.php:147
+#@ mh
+msgid "Home 1"
+msgstr "בית 1"
+
+#: functions.php:147
+#: functions.php:148
+#: functions.php:149
+#: functions.php:150
+#: functions.php:151
+#: functions.php:152
+#: functions.php:153
+#: functions.php:154
+#: functions.php:155
+#: functions.php:156
+#: functions.php:157
+#@ mh
+msgid "Widget area on homepage"
+msgstr "איזור וויג'טים בדף הבית"
+
+#: functions.php:148
+#@ mh
+msgid "Home 2"
+msgstr "בית 2"
+
+#: functions.php:149
+#@ mh
+msgid "Home 3"
+msgstr "בית 3"
+
+#: functions.php:150
+#@ mh
+msgid "Home 4"
+msgstr "בית 4"
+
+#: functions.php:151
+#@ mh
+msgid "Home 5"
+msgstr "בית 5"
+
+#: functions.php:165
+#@ mh
+msgid "Footer 1"
+msgstr "פוטר 1"
+
+#: functions.php:166
+#@ mh
+msgid "Footer 2"
+msgstr "פוטר 2"
+
+#: functions.php:167
+#@ mh
+msgid "Footer 3"
+msgstr "פוטר 3"
+
+#: functions.php:168
+#@ mh
+msgid "Footer 4"
+msgstr "פוטר 4"
+
+#: includes/mh-custom-functions.php:159
+#, php-format
+#@ mh
+msgid "%1$s at %2$s"
+msgstr "%1$s um %2$s"
+
+#: includes/mh-custom-functions.php:163
+#@ mh
+msgid "(Edit)"
+msgstr "(עריכה)"
+
+#: includes/mh-custom-functions.php:166
+#@ mh
+msgid "Your comment is awaiting moderation."
+msgstr "התגובה שלך מחכה לאישור מנהל"
+
+#: includes/mh-custom-functions.php:183
+#@ mh
+msgid "Name "
+msgstr "שם"
+
+#: includes/mh-custom-functions.php:184
+#@ mh
+msgid "Email "
+msgstr "דואר אלקטרוני"
+
+#: includes/mh-content.php:251
+#: includes/mh-custom-functions.php:185
+#@ mh
+msgid "Website"
+msgstr "אתר"
+
+#: includes/mh-breadcrumb.php:14
+#@ mh
+msgid "Home"
+msgstr "בית"
+
+#: content-none.php:12
+#: includes/mh-breadcrumb.php:65
+#@ mh
+msgid "Search"
+msgstr "חיפוש"
+
+#: includes/mh-custom-functions.php:19
+#, php-format
+#@ mh
+msgid "Page %s"
+msgstr "עמוד %s"
+
+#: includes/mh-content.php:10
+#@ mh
+msgid "News Ticker"
+msgstr "חדש באתר"
+
+#: includes/mh-content.php:22
+#: includes/mh-content.php:69
+#: includes/widgets/mh-spotlight.php:48
+#@ mh
+msgid " in "
+msgstr " in "
+
+#: includes/widgets/mh-spotlight.php:12
+#@ mh
+msgid "In the spotlight"
+msgstr "באור הזרקורים"
+
+#: includes/widgets/mh-spotlight.php:48
+#@ mh
+msgid "by "
+msgstr "מאת"
+
+#: includes/widgets/mh-facebook-likebox.php:8
+#@ mh
+msgid "MH Facebook Likebox"
+msgstr "לייק בפייסבוק"
+
+#: includes/widgets/mh-advertising.php:54
+#: includes/widgets/mh-affiliate.php:35
+#: includes/widgets/mh-authors.php:61
+#: includes/widgets/mh-carousel.php:63
+#: includes/widgets/mh-comments.php:47
+#: includes/widgets/mh-custom-posts.php:114
+#: includes/widgets/mh-custom-slider.php:116
+#: includes/widgets/mh-custom-slider.php:134
+#: includes/widgets/mh-custom-slider.php:152
+#: includes/widgets/mh-custom-slider.php:170
+#: includes/widgets/mh-custom-slider.php:188
+#: includes/widgets/mh-facebook-likebox.php:45
+#: includes/widgets/mh-nip.php:54
+#: includes/widgets/mh-social.php:104
+#: includes/widgets/mh-spotlight.php:79
+#@ mh
+msgid "Title:"
+msgstr "כותרת:"
+
+#: includes/widgets/mh-facebook-likebox.php:49
+#@ mh
+msgid "Facebook Page URL:"
+msgstr "כתובת פייסבוק:"
+
+#: includes/widgets/mh-custom-posts.php:8
+#@ mh
+msgid "MH Custom Posts"
+msgstr "מודעות ערוכות"
+
+#: includes/widgets/mh-nip.php:8
+#@ mh
+msgid "MH News in Pictures"
+msgstr "חדש בתמונות"
+
+#: includes/widgets/mh-comments.php:8
+#@ mh
+msgid "MH Recent Comments"
+msgstr "תגובות אחרונות"
+
+#: comments.php:13
+#: includes/widgets/mh-comments.php:27
+#@ mh
+msgid " on "
+msgstr "על"
+
+#: includes/mh-shortcodes.php:28
+#@ mh
+msgid "Advertisement"
+msgstr "פרסומות"
+
+#: includes/mh-options.php:23
+#@ mh
+msgid "General Options"
+msgstr "הגדרות כלליות"
+
+#: includes/mh-options.php:26
+#@ mh
+msgid "News Ticker Options"
+msgstr "הגדרות פס החדשות"
+
+#: includes/mh-options.php:30
+#: includes/mh-options.php:167
+#@ mh
+msgid "Custom CSS"
+msgstr "עיצוב אישי"
+
+#: includes/mh-options.php:31
+#@ mh
+msgid "Tracking Code"
+msgstr "קוד מעקב"
+
+#: includes/mh-options.php:123
+#: includes/mh-options.php:206
+#@ mh
+msgid "Left"
+msgstr "שמאל"
+
+#: includes/mh-options.php:123
+#: includes/mh-options.php:207
+#@ mh
+msgid "Right"
+msgstr "ימין"
+
+#: includes/mh-options.php:135
+#@ mh
+msgid "Offset"
+msgstr "עוד"
+
+#: includes/mh-options.php:168
+#@ mh
+msgid "Tracking Code (e.g. Google Analytics)"
+msgstr "קוד מעקב בגוגל (e.g. Google Analytics)"
+
+#: includes/mh-options.php:170
+#@ mh
+msgid "Background Header"
+msgstr "רקע הראש של האתר"
+
+#: includes/mh-options.php:171
+#@ mh
+msgid "Background Inner"
+msgstr "רקע פנימי"
+
+#: includes/mh-options.php:172
+#@ mh
+msgid "Color 1"
+msgstr "צבע 1"
+
+#: includes/mh-options.php:173
+#@ mh
+msgid "Color 2"
+msgstr "צבע 2"
+
+#: includes/mh-options.php:174
+#@ mh
+msgid "Color 3"
+msgstr "צבע 3"
+
+#: includes/mh-options.php:175
+#@ mh
+msgid "Text: General"
+msgstr "Text: כללי"
+
+#: includes/mh-options.php:176
+#@ mh
+msgid "Text: 2nd Color"
+msgstr "Text: הצבע השני"
+
+#: includes/mh-options.php:177
+#@ mh
+msgid "Text: Post Meta"
+msgstr "Text: מטה של הפוסט"
+
+#: includes/mh-content.php:64
+#@ mh
+msgid " by "
+msgstr "מאת"
+
+#: sitemap.php:23
+#@ mh
+msgid "Archives"
+msgstr "ארכיון"
+
+#: functions.php:152
+#@ mh
+msgid "Home 6"
+msgstr "בית 6"
+
+#: functions.php:153
+#@ mh
+msgid "Home 7"
+msgstr "בית 7"
+
+#: functions.php:154
+#@ mh
+msgid "Home 8"
+msgstr "בית 8"
+
+#: functions.php:155
+#@ mh
+msgid "Home 9"
+msgstr "בית 9"
+
+#: functions.php:156
+#@ mh
+msgid "Home 10"
+msgstr "בית 10"
+
+#: includes/widgets/mh-slider.php:8
+#@ mh
+msgid "MH Slider Widget (Homepage)"
+msgstr "וויג'ט סליידר (דף הבית)"
+
+#: includes/widgets/mh-spotlight.php:8
+#@ mh
+msgid "MH Spotlight Widget (Homepage)"
+msgstr "וויג'ט אור הזרקורים (דף הבית)"
+
+#: includes/widgets/mh-carousel.php:8
+#@ mh
+msgid "MH Carousel Widget (Homepage)"
+msgstr "וויג'ט קרוסלה (דף הבית)"
+
+#: comments.php:34
+#@ mh
+msgid "Comments are closed."
+msgstr "התגובות סגורות."
+
+#: functions.php:169
+#@ mh
+msgid "Contact"
+msgstr "צור קשר"
+
+#: admin/admin.php:36
+#@ mh
+msgid "Subheading (will be displayed below post title)"
+msgstr "תת כותרת (יוצג מתחת לכותרת)"
+
+#: admin/admin.php:41
+#@ mh
+msgid "Alternative ad code (this will overwrite the global content ad code)"
+msgstr "קוד מודעה אלטרנטיבי (זה ישכתב את קוד המודעה הגלובלי)"
+
+#: admin/admin.php:48
+#@ mh
+msgid " Disable content ad for this post"
+msgstr "לבטל את תוכן המודעה למודעה זו"
+
+#: admin/admin.php:62
+#@ mh
+msgid "SEO title (optimize title tag for search engines - max. 70 characters)"
+msgstr "כותרת (אופטימיזצית כותרת בשביל מנוע החיפוש)"
+
+#: admin/admin.php:66
+#: admin/admin.php:73
+#@ mh
+msgid "You have "
+msgstr "יש לך"
+
+#: admin/admin.php:66
+#: admin/admin.php:73
+#@ mh
+msgid " characters left"
+msgstr "מספר התווים שנשארו"
+
+#: admin/admin.php:69
+#@ mh
+msgid "Meta description (max. 160 characters recommended)"
+msgstr "Meta Description (מומלץ מקסימום 160 תווים)"
+
+#: admin/admin.php:76
+#@ mh
+msgid "Meta keywords (only use this to set keywords manually or to overwrite the post tags)"
+msgstr "Meta Keywords (השתמש בזה בשביל לשים מילות מפתח אישיות זה יחליף את הטגיות בפוסט)"
+
+#: admin/admin.php:81
+#@ mh
+msgid "Modify robots meta tags for this post/page (e.g. noindex, nofollow or noodp)"
+msgstr "Modify robots meta tags for this post/page (e.g. noindex, nofollow or noodp)"
+
+#: includes/mh-content.php:239
+#@ mh
+msgid "About "
+msgstr "אודות"
+
+#: includes/mh-content.php:249
+#@ mh
+msgid "Contact: "
+msgstr "צור קשר: "
+
+#: includes/mh-content.php:251
+#@ mh
+msgid "Visit the website of "
+msgstr "לבקש באתר של"
+
+#: includes/mh-content.php:254
+#: includes/mh-content.php:257
+#: includes/mh-content.php:260
+#: includes/mh-content.php:263
+#@ mh
+msgid "Follow "
+msgstr "עקוב"
+
+#: includes/mh-content.php:254
+#@ mh
+msgid " on Facebook"
+msgstr "בפייסבוק"
+
+#: includes/mh-content.php:254
+#@ mh
+msgid "Facebook"
+msgstr "פייסבוק"
+
+#: includes/mh-content.php:257
+#@ mh
+msgid " on Twitter"
+msgstr "בטוויטר"
+
+#: includes/mh-content.php:257
+#@ mh
+msgid "Twitter"
+msgstr "טוויטר"
+
+#: includes/mh-content.php:260
+#@ mh
+msgid " on Google+"
+msgstr "בגוגל פלוס"
+
+#: includes/mh-content.php:260
+#@ mh
+msgid "Google+"
+msgstr "גוגל פלוס"
+
+#: includes/mh-content.php:263
+#@ mh
+msgid " on YouTube"
+msgstr "ביוטיוב"
+
+#: includes/mh-content.php:263
+#@ mh
+msgid "YouTube"
+msgstr "יוטיוב"
+
+#: includes/mh-content.php:239
+#@ mh
+msgid "More articles written by "
+msgstr "מודעות נוספות שנכתבו על ידי"
+
+#: includes/widgets/mh-facebook-likebox.php:41
+#@ mh
+msgid "Connect with us on Facebook"
+msgstr "תתחברו אלינו לפייסבוק"
+
+#: includes/widgets/mh-comments.php:43
+#@ mh
+msgid "Recent Comments"
+msgstr "תגובות אחרונות"
+
+#: includes/widgets/mh-authors.php:98
+#: includes/widgets/mh-comments.php:59
+#@ mh
+msgid "Avatar Size in px:"
+msgstr "גודל התמונה הראשית של המשתמש ב פיקסלים px:"
+
+#: includes/widgets/mh-authors.php:100
+#: includes/widgets/mh-comments.php:61
+#@ mh
+msgid "16 x 16"
+msgstr "16 x 16"
+
+#: includes/widgets/mh-authors.php:101
+#: includes/widgets/mh-comments.php:62
+#@ mh
+msgid "32 x 32"
+msgstr "32 x 32"
+
+#: includes/widgets/mh-authors.php:102
+#: includes/widgets/mh-comments.php:63
+#@ mh
+msgid "48 x 48"
+msgstr "48 x 48"
+
+#: includes/widgets/mh-authors.php:103
+#: includes/widgets/mh-comments.php:64
+#@ mh
+msgid "64 x 64"
+msgstr "64 x 64"
+
+#: includes/widgets/mh-authors.php:104
+#: includes/widgets/mh-comments.php:65
+#@ mh
+msgid "No Avatars"
+msgstr "ללא תמונת נושא של משתמשים"
+
+#: includes/widgets/mh-authors.php:8
+#@ mh
+msgid "MH Authors Widget"
+msgstr "MH Authors Widget"
+
+#: includes/widgets/mh-authors.php:35
+#@ mh
+msgid "published "
+msgstr "פורסם"
+
+#: includes/widgets/mh-authors.php:35
+#@ mh
+msgid " articles"
+msgstr " מודעות"
+
+#: includes/widgets/mh-authors.php:40
+#@ mh
+msgid "No authors found"
+msgstr "לא נמצאו כותבים"
+
+#: includes/mh-breadcrumb.php:61
+#: includes/widgets/mh-authors.php:57
+#@ mh
+msgid "Authors"
+msgstr "כותבים"
+
+#: includes/widgets/mh-authors.php:75
+#@ mh
+msgid "All Users"
+msgstr "כל המשתמשים"
+
+#: includes/widgets/mh-authors.php:76
+#@ mh
+msgid "Administrator"
+msgstr "מנהל המערכת"
+
+#: includes/widgets/mh-authors.php:77
+#@ mh
+msgid "Editor"
+msgstr "עורך המערכת"
+
+#: includes/widgets/mh-authors.php:78
+#@ mh
+msgid "Author"
+msgstr "כותב"
+
+#: includes/widgets/mh-authors.php:79
+#@ mh
+msgid "Contributor"
+msgstr "תורם"
+
+#: includes/widgets/mh-authors.php:80
+#@ mh
+msgid "Subscriber"
+msgstr "עוקב רשום"
+
+#: includes/widgets/mh-authors.php:91
+#@ mh
+msgid "Order:"
+msgstr "סדר:"
+
+#: includes/widgets/mh-authors.php:93
+#@ mh
+msgid "Ascending"
+msgstr "בסדר עולה"
+
+#: includes/widgets/mh-authors.php:94
+#@ mh
+msgid "Descending"
+msgstr "בסדר יורד"
+
+#: includes/widgets/mh-social.php:8
+#@ mh
+msgid "MH Social Widget"
+msgstr "MH Social Widget"
+
+#: includes/widgets/mh-social.php:34
+#@ mh
+msgid "Follow on Facebook"
+msgstr "לעקוב אחרינו בפייסבוק"
+
+#: includes/widgets/mh-social.php:37
+#@ mh
+msgid "Follow on Twitter"
+msgstr "לעקוב אחרינו בטוויטר"
+
+#: includes/widgets/mh-social.php:40
+#@ mh
+msgid "Follow on Google+"
+msgstr "לעקוב אחרינו בגוגל פלוס"
+
+#: includes/widgets/mh-social.php:61
+#@ mh
+msgid "Follow on LinkedIn"
+msgstr "לעקוב אחרינו בלינקדין"
+
+#: includes/widgets/mh-social.php:73
+#@ mh
+msgid "Subscribe to our RSS feed"
+msgstr "רשימת מעקב במייל"
+
+#: includes/widgets/mh-social.php:100
+#@ mh
+msgid "Stay connected"
+msgstr "השאר מקושר אלינו"
+
+#: includes/widgets/mh-social.php:108
+#@ mh
+msgid "Facebook URL:"
+msgstr "Facebook URL:"
+
+#: includes/widgets/mh-social.php:112
+#@ mh
+msgid "Twitter URL:"
+msgstr "Twitter URL:"
+
+#: includes/widgets/mh-social.php:116
+#@ mh
+msgid "Google+ URL:"
+msgstr "Google+ URL:"
+
+#: includes/widgets/mh-social.php:144
+#@ mh
+msgid "LinkedIn URL:"
+msgstr "LinkedIn URL:"
+
+#: includes/widgets/mh-social.php:160
+#@ mh
+msgid "RSS Feed URL:"
+msgstr "RSS Feed URL:"
+
+#: includes/mh-options.php:27
+#@ mh
+msgid "Posts/Pages Options"
+msgstr "הגדרות מודעה ועמוד"
+
+#: admin/admin.php:24
+#: includes/mh-options.php:29
+#@ mh
+msgid "SEO Options"
+msgstr "הגדרות קידום"
+
+#: includes/mh-options.php:155
+#@ mh
+msgid "Enable Google Authorship"
+msgstr "לאשר Google Authorship"
+
+#: includes/mh-options.php:156
+#@ mh
+msgid "Enable Facebook Open Graph"
+msgstr "להציג גרף ציבורי של פייסבוק"
+
+#: includes/mh-options.php:164
+#@ mh
+msgid "Google Publisher Page"
+msgstr "Google Publisher Page"
+
+#: searchform.php:3
+#@ mh
+msgid "To search, type and hit enter"
+msgstr "לחיפוש, רשום ותלחץ על אנטר"
+
+#: includes/mh-options.php:165
+#@ mh
+msgid "Google Webmaster Tools Verification"
+msgstr "Google Webmaster Tools Verification"
+
+#: comments.php:12
+#@ mh
+msgid "Comments"
+msgstr "תגובות"
+
+#: comments.php:26
+#@ mh
+msgid "Trackbacks & Pingbacks"
+msgstr "Trackbacks & Pingbacks"
+
+#: content-none.php:5
+#@ mh
+msgid "Sorry, but nothing matched your search terms. Please try again with different keywords."
+msgstr "סליחה אבל לא הצלחנו למצוא שום דבר התואם לחיפוש שלך"
+
+#: content-none.php:9
+#@ mh
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "סליחה אבל לא הצלחנו למצוא את מה שחיפשת יכול להיות שהחיפוש יעזור"
+
+#: includes/widgets/mh-facebook-likebox.php:62
+#@ mh
+msgid "Show Faces"
+msgstr "הראה פרצופים"
+
+#: includes/widgets/mh-facebook-likebox.php:66
+#@ mh
+msgid "Show Stream"
+msgstr "הראה סטרים"
+
+#: includes/widgets/mh-facebook-likebox.php:70
+#@ mh
+msgid "Show Header"
+msgstr "הראה את ראש הדף"
+
+#: includes/widgets/mh-facebook-likebox.php:74
+#@ mh
+msgid "Show Border"
+msgstr "הצג גבולות"
+
+#: includes/widgets/mh-social.php:43
+#@ mh
+msgid "Follow on YouTube"
+msgstr "לעקוב אחרינו ביוטיוב"
+
+#: includes/widgets/mh-social.php:46
+#@ mh
+msgid "Follow on Flickr"
+msgstr "לעקוב אחרינו בפליקר"
+
+#: includes/widgets/mh-social.php:49
+#@ mh
+msgid "Follow on Vimeo"
+msgstr "לעקוב אחרינו בוימאו"
+
+#: includes/widgets/mh-social.php:52
+#@ mh
+msgid "Follow on SoundCloud"
+msgstr "לעקוב אחרינו בסאונדקלאוד"
+
+#: includes/widgets/mh-social.php:55
+#@ mh
+msgid "Follow on Pinterest"
+msgstr "לעקוב אחרינו בפיינטרסט"
+
+#: includes/widgets/mh-social.php:58
+#@ mh
+msgid "Follow on Instagram"
+msgstr "לעקוב אחרינו באינסטגרם"
+
+#: includes/widgets/mh-social.php:64
+#@ mh
+msgid "Follow on Myspace"
+msgstr "לעקוב אחרינו במייספייס"
+
+#: includes/widgets/mh-social.php:120
+#@ mh
+msgid "YouTube URL:"
+msgstr "YouTube URL:"
+
+#: includes/widgets/mh-social.php:124
+#@ mh
+msgid "Flickr URL:"
+msgstr "Flickr URL:"
+
+#: includes/widgets/mh-social.php:128
+#@ mh
+msgid "Vimeo URL:"
+msgstr "Vimeo URL:"
+
+#: includes/widgets/mh-social.php:132
+#@ mh
+msgid "SoundCloud URL:"
+msgstr "SoundCloud URL:"
+
+#: includes/widgets/mh-social.php:136
+#@ mh
+msgid "Pinterest URL:"
+msgstr "Pinterest URL:"
+
+#: includes/widgets/mh-social.php:140
+#@ mh
+msgid "Instagram URL:"
+msgstr "Instagram URL:"
+
+#: includes/widgets/mh-social.php:148
+#@ mh
+msgid "Myspace URL:"
+msgstr "Myspace URL:"
+
+#: functions.php:97
+#@ mh
+msgid "Header Navigation"
+msgstr "תפריט הראש"
+
+#: functions.php:100
+#@ mh
+msgid "Footer Navigation"
+msgstr "התפריט התחתון"
+
+#: includes/mh-custom-functions.php:56
+#@ mh
+msgid "Search Results for "
+msgstr "תוצאות חיפוש ל"
+
+#: includes/mh-breadcrumb.php:63
+#: includes/mh-custom-functions.php:64
+#@ mh
+msgid "Page not found (404)"
+msgstr "הדף שחיפשת לא נמצא"
+
+#: includes/mh-breadcrumb.php:26
+#@ mh
+msgid "Media"
+msgstr "מדיה"
+
+#: includes/mh-breadcrumb.php:75
+#: includes/mh-breadcrumb.php:79
+#@ mh
+msgid "Yearly Archives"
+msgstr "ארכיון שנתי"
+
+#: includes/mh-breadcrumb.php:76
+#@ mh
+msgid "Monthly Archives"
+msgstr "ארכיון חודשי"
+
+#: includes/mh-content.php:303
+#@ mh
+msgid "&larr; Previous image"
+msgstr "&larr; לתמונה הקודמת"
+
+#: includes/mh-content.php:310
+#@ mh
+msgid "Next image &rarr;"
+msgstr "התמונה הבאה &rarr;"
+
+#: functions.php:142
+#@ mh
+msgid "Widget area on top of the site"
+msgstr "איזור וויג'טים בראש האתר"
+
+#: functions.php:143
+#@ mh
+msgid "Widget area (sidebar left/right) on single posts, pages and archives"
+msgstr "איזור וויג'טים בסרגלי הצד בתוך המודעות, הדפים והארכיונים"
+
+#: functions.php:161
+#@ mh
+msgid "Posts 1"
+msgstr "מודעה 1"
+
+#: functions.php:161
+#@ mh
+msgid "Widget area above single post content"
+msgstr "איזור ווידגטים מעל תוכן המודעה"
+
+#: functions.php:162
+#@ mh
+msgid "Posts 2"
+msgstr "מודעה 2"
+
+#: functions.php:162
+#@ mh
+msgid "Widget area below single post content"
+msgstr "איזור ווידגטים מתחת לתוכן המודעה"
+
+#: functions.php:163
+#@ mh
+msgid "Pages 1"
+msgstr "עמוד 1"
+
+#: functions.php:163
+#@ mh
+msgid "Widget area above single page content"
+msgstr "איזור ווידגטים מעל תוכן המודעה"
+
+#: functions.php:164
+#@ mh
+msgid "Pages 2"
+msgstr "עמוד 2"
+
+#: functions.php:164
+#@ mh
+msgid "Widget area below single page content"
+msgstr "איזור ווידגטים מתחת לתוכן המודעה"
+
+#: functions.php:165
+#: functions.php:166
+#: functions.php:167
+#: functions.php:168
+#@ mh
+msgid "Widget area in footer"
+msgstr "איזור וויגדטים בפוטר"
+
+#: functions.php:169
+#@ mh
+msgid "Widget area (sidebar) on contact page template"
+msgstr "איזור ווידג'טים בסרגל הצד בתוך דף הצור קשר"
+
+#: functions.php:145
+#@ mh
+msgid "Sidebar 2"
+msgstr "סרגל צד 2"
+
+#: functions.php:145
+#@ mh
+msgid "Second sidebar on single posts, pages and archives"
+msgstr "סרגל צד שני בתוך מודעות דפים וארכיונים"
+
+#: functions.php:157
+#@ mh
+msgid "Home 11"
+msgstr "בית 11"
+
+#: functions.php:159
+#@ mh
+msgid "Home 12"
+msgstr "בית 12"
+
+#: functions.php:159
+#@ mh
+msgid "Sidebar on homepage"
+msgstr "סרגל "
+
+#: functions.php:171
+#@ mh
+msgid "Contact 2"
+msgstr "צור קשר 2"
+
+#: functions.php:171
+#@ mh
+msgid "2nd widget area (sidebar) on contact page template"
+msgstr "איזור הווידג'טים השני בסרגל הצד בדף הצור קשר"
+
+#: includes/mh-options.php:24
+#@ mh
+msgid "Layout Options"
+msgstr "הגדרות עיצוב"
+
+#: includes/mh-options.php:25
+#@ mh
+msgid "Typography Options"
+msgstr "הגדרות כיתוב"
+
+#: includes/mh-options.php:28
+#: includes/widgets/mh-advertising.php:51
+#@ mh
+msgid "Advertising"
+msgstr "פירסום"
+
+#: includes/widgets/mh-facebook-likebox.php:53
+#@ mh
+msgid "Width:"
+msgstr "אורך:"
+
+#: includes/widgets/mh-facebook-likebox.php:57
+#@ mh
+msgid "Height:"
+msgstr "גובה:"
+
+#: includes/widgets/mh-carousel.php:67
+#: includes/widgets/mh-custom-posts.php:118
+#: includes/widgets/mh-nip.php:58
+#: includes/widgets/mh-slider.php:86
+#: includes/widgets/mh-spotlight.php:83
+#@ mh
+msgid "Select a Category:"
+msgstr "תבחר קטגוריה"
+
+#: includes/widgets/mh-carousel.php:69
+#: includes/widgets/mh-custom-posts.php:120
+#: includes/widgets/mh-nip.php:60
+#: includes/widgets/mh-slider.php:88
+#: includes/widgets/mh-spotlight.php:85
+#@ mh
+msgid "All"
+msgstr "הכל"
+
+#: includes/widgets/mh-carousel.php:86
+#: includes/widgets/mh-custom-posts.php:137
+#: includes/widgets/mh-nip.php:77
+#: includes/widgets/mh-slider.php:105
+#: includes/widgets/mh-spotlight.php:98
+#@ mh
+msgid "Filter Posts by Tags (e.g. lifestyle):"
+msgstr "סנן מודעות לפי טגיות:"
+
+#: includes/mh-options.php:136
+#: includes/widgets/mh-carousel.php:114
+#: includes/widgets/mh-custom-posts.php:183
+#: includes/widgets/mh-nip.php:98
+#: includes/widgets/mh-slider.php:144
+#@ mh
+msgid "Ignore Sticky Posts"
+msgstr "התעלם ממודעות דביקות"
+
+#: includes/widgets/mh-spotlight.php:114
+#@ mh
+msgid "Image size:"
+msgstr "גודל התמונה:"
+
+#: includes/mh-content.php:296
+#@ mh
+msgid "&larr; Back to article"
+msgstr ""
+
+#: includes/mh-content.php:305
+#@ mh
+msgid "&larr; Previous article"
+msgstr ""
+
+#: includes/mh-content.php:312
+#@ mh
+msgid "Next article &rarr;"
+msgstr ""
+
+#: includes/mh-content.php:337
+#@ mh
+msgid "Related Articles"
+msgstr ""
+
+#: includes/widgets/mh-affiliate.php:8
+#@ mh
+msgid "MH Affiliate Widget"
+msgstr ""
+
+#: includes/widgets/mh-social.php:67
+#@ mh
+msgid "Follow on Tumblr"
+msgstr ""
+
+#: includes/widgets/mh-social.php:70
+#@ mh
+msgid "Follow on deviantART"
+msgstr ""
+
+#: includes/widgets/mh-social.php:152
+#@ mh
+msgid "Tumblr URL:"
+msgstr ""
+
+#: includes/widgets/mh-social.php:156
+#@ mh
+msgid "deviantART URL:"
+msgstr ""
+
+#: admin/admin.php:20
+#@ mh
+msgid "Post Options"
+msgstr ""
+
+#: admin/admin.php:52
+#@ mh
+msgid " Disable featured image for this post"
+msgstr ""
+
+#: functions.php:99
+#@ mh
+msgid "Additional Navigation (below Main Navigation)"
+msgstr ""
+
+#: functions.php:197
+#@ mh
+msgid "WooCommerce"
+msgstr ""
+
+#: functions.php:197
+#@ mh
+msgid "Widget area (sidebar) on WooCommerce pages"
+msgstr ""
+
+#: includes/mh-content.php:58
+#@ mh
+msgid "Posted "
+msgstr ""
+
+#: includes/mh-content.php:239
+#@ mh
+msgid " Articles"
+msgstr ""
+
+#: includes/mh-content.php:243
+#@ mh
+msgid "The author has not yet added any personal or biographical info to his author profile."
+msgstr ""
+
+#: includes/mh-options.php:148
+#: includes/mh-options.php:215
+#@ mh
+msgid "Top and bottom"
+msgstr ""
+
+#: includes/mh-options.php:148
+#@ mh
+msgid "Top of posts"
+msgstr ""
+
+#: includes/mh-options.php:148
+#@ mh
+msgid "Bottom of posts"
+msgstr ""
+
+#: includes/widgets/mh-affiliate.php:7
+#@ mh
+msgid "MH Affiliate Widget to earn money by promoting WordPress themes by MH Themes."
+msgstr ""
+
+#: includes/widgets/mh-affiliate.php:52
+#@ mh
+msgid "With this widget you can earn money by promoting WordPress themes by MH Themes. If you do not have a Creative Market Username yet, please visit our"
+msgstr ""
+
+#: includes/widgets/mh-affiliate.php:52
+#@ mh
+msgid "infopage for affiliates"
+msgstr ""
+
+#: includes/widgets/mh-carousel.php:106
+#@ mh
+msgid "Carousel Layout:"
+msgstr ""
+
+#: includes/widgets/mh-custom-slider.php:206
+#: includes/widgets/mh-slider.php:132
+#@ mh
+msgid "Slider Layout:"
+msgstr ""
+
+#: includes/mh-content.php:61
+#@ mh
+msgid "on "
+msgstr ""
+
+#: includes/widgets/mh-advertising.php:8
+#@ mh
+msgid "MH Advertising Widget"
+msgstr ""
+
+#: includes/widgets/mh-advertising.php:65
+#: includes/widgets/mh-advertising.php:69
+#: includes/widgets/mh-advertising.php:73
+#: includes/widgets/mh-advertising.php:77
+#@ mh
+msgid "Ad Code"
+msgstr ""
+
+#: content-none.php:17
+#@ mh
+msgid "Popular Articles"
+msgstr ""
+
+#: content-none.php:22
+#@ mh
+msgid "Random Articles"
+msgstr ""
+
+#: includes/mh-options.php:178
+#@ mh
+msgid "Link Color on Posts / Pages"
+msgstr ""
+
+#: sitemap.php:8
+#@ mh
+msgid "Recent Articles"
+msgstr ""
+
+#: admin/admin.php:140
+#@ mh
+msgid "Posts in Slider"
+msgstr ""
+
+#: admin/admin.php:143
+#@ mh
+msgid "Enter how many posts you want to show in the category slider"
+msgstr ""
+
+#: includes/mh-options.php:109
+#@ mh
+msgid "Favicon Upload"
+msgstr ""
+
+#: includes/mh-options.php:110
+#@ mh
+msgid "Custom Excerpt Length in Characters"
+msgstr ""
+
+#: includes/mh-options.php:111
+#@ mh
+msgid "Custom Excerpt More-Text"
+msgstr ""
+
+#: includes/mh-options.php:112
+#@ mh
+msgid "Copyright Text"
+msgstr ""
+
+#: includes/mh-options.php:114
+#@ mh
+msgid "Select Layout"
+msgstr ""
+
+#: includes/mh-options.php:115
+#@ mh
+msgid "Set Site Width"
+msgstr ""
+
+#: includes/mh-options.php:116
+#@ mh
+msgid "Layout of Widget Titles"
+msgstr ""
+
+#: includes/mh-options.php:117
+#@ mh
+msgid "Layout of Page Titles"
+msgstr ""
+
+#: includes/mh-options.php:118
+#@ mh
+msgid "Layout of Author Box"
+msgstr ""
+
+#: includes/mh-options.php:118
+#: includes/mh-options.php:219
+#@ mh
+msgid "No Author Box"
+msgstr ""
+
+#: includes/mh-options.php:119
+#@ mh
+msgid "Layout of Related Articles"
+msgstr ""
+
+#: includes/mh-options.php:119
+#: includes/mh-options.php:220
+#@ mh
+msgid "No Related Articles"
+msgstr ""
+
+#: includes/mh-options.php:120
+#@ mh
+msgid "Layout of Category Slider"
+msgstr ""
+
+#: includes/mh-options.php:121
+#@ mh
+msgid "Layout of Archives"
+msgstr ""
+
+#: includes/mh-options.php:122
+#@ mh
+msgid "Sidebars"
+msgstr ""
+
+#: includes/mh-options.php:122
+#: includes/mh-options.php:203
+#@ mh
+msgid "One Sidebar"
+msgstr ""
+
+#: includes/mh-options.php:122
+#: includes/mh-options.php:204
+#@ mh
+msgid "Two Sidebars"
+msgstr ""
+
+#: includes/mh-options.php:122
+#: includes/mh-options.php:205
+#@ mh
+msgid "No Sidebars"
+msgstr ""
+
+#: includes/mh-options.php:123
+#@ mh
+msgid "Position of default Sidebar"
+msgstr ""
+
+#: includes/mh-options.php:125
+#@ mh
+msgid "Change default Font Size (px)"
+msgstr ""
+
+#: includes/mh-options.php:127
+#@ mh
+msgid "Select Font for Headings"
+msgstr ""
+
+#: includes/mh-options.php:128
+#@ mh
+msgid "Select Font for Body Text"
+msgstr ""
+
+#: includes/mh-options.php:130
+#@ mh
+msgid "Enable Ticker"
+msgstr ""
+
+#: includes/mh-options.php:131
+#@ mh
+msgid "Ticker Title"
+msgstr ""
+
+#: includes/mh-options.php:132
+#@ mh
+msgid "Limit Post Number"
+msgstr ""
+
+#: includes/mh-options.php:133
+#@ mh
+msgid "Custom Categories (use ID - e.g. 3,5,9):"
+msgstr ""
+
+#: includes/mh-options.php:134
+#@ mh
+msgid "Custom Tags (use slug - e.g. lifestyle):"
+msgstr ""
+
+#: includes/mh-options.php:138
+#@ mh
+msgid "Disable Teaser Text on Posts"
+msgstr ""
+
+#: includes/mh-options.php:139
+#@ mh
+msgid "Disable Featured Image on Posts"
+msgstr ""
+
+#: includes/mh-options.php:140
+#@ mh
+msgid "Disable prettyPhoto Lightbox"
+msgstr ""
+
+#: includes/mh-options.php:141
+#@ mh
+msgid "Disable Date in Post Meta"
+msgstr ""
+
+#: includes/mh-options.php:142
+#@ mh
+msgid "Disable Author in Post Meta"
+msgstr ""
+
+#: includes/mh-options.php:143
+#@ mh
+msgid "Disable Categories in Post Meta"
+msgstr ""
+
+#: includes/mh-options.php:144
+#@ mh
+msgid "Disable Comments in Post Meta"
+msgstr ""
+
+#: includes/mh-options.php:145
+#@ mh
+msgid "Hide Contact Details in Author Box"
+msgstr ""
+
+#: includes/mh-options.php:146
+#@ mh
+msgid "Enable Comments on Pages"
+msgstr ""
+
+#: includes/mh-options.php:147
+#@ mh
+msgid "Enable Post/Attachment Navigation"
+msgstr ""
+
+#: includes/mh-options.php:148
+#@ mh
+msgid "Display Social Buttons"
+msgstr ""
+
+#: includes/mh-options.php:148
+#: includes/mh-options.php:218
+#@ mh
+msgid "No Social Buttons"
+msgstr ""
+
+#: includes/mh-options.php:150
+#@ mh
+msgid "Ad Code for Content Ad on Posts"
+msgstr ""
+
+#: includes/mh-options.php:151
+#@ mh
+msgid "Ad Code for Ads on Archives"
+msgstr ""
+
+#: includes/mh-options.php:152
+#@ mh
+msgid "Display Ad every x Posts on Archives:"
+msgstr ""
+
+#: includes/mh-options.php:154
+#@ mh
+msgid "Enable SEO Features"
+msgstr ""
+
+#: includes/mh-options.php:157
+#@ mh
+msgid "Use Post Tags as Meta Keywords"
+msgstr ""
+
+#: includes/mh-options.php:158
+#@ mh
+msgid "Clean up Head Section"
+msgstr ""
+
+#: includes/mh-options.php:159
+#@ mh
+msgid "Set Attachments to noindex"
+msgstr ""
+
+#: includes/mh-options.php:160
+#@ mh
+msgid "Set Category Archives to noindex"
+msgstr ""
+
+#: includes/mh-options.php:161
+#@ mh
+msgid "Set Tag Archives to noindex"
+msgstr ""
+
+#: includes/mh-options.php:162
+#@ mh
+msgid "Set Date based Archives to noindex"
+msgstr ""
+
+#: includes/mh-options.php:163
+#@ mh
+msgid "Enable Breadcrumbs"
+msgstr ""
+
+#: includes/mh-options.php:180
+#@ mh
+msgid "Scale Background Image to Full Size"
+msgstr ""
+
+#: includes/mh-options.php:201
+#@ mh
+msgid "Responsive"
+msgstr ""
+
+#: includes/mh-options.php:202
+#@ mh
+msgid "Fixed"
+msgstr ""
+
+#: includes/mh-options.php:216
+#@ mh
+msgid "Top of Posts"
+msgstr ""
+
+#: includes/mh-options.php:217
+#@ mh
+msgid "Bottom of Posts"
+msgstr ""
+
+#: includes/widgets/mh-advertising.php:7
+#@ mh
+msgid "MH Advertising Widget to display ads in widget locations of your choice."
+msgstr ""
+
+#: includes/widgets/mh-advertising.php:58
+#: includes/widgets/mh-affiliate.php:43
+#@ mh
+msgid "Banner Size:"
+msgstr ""
+
+#: includes/widgets/mh-authors.php:7
+#@ mh
+msgid "MH Authors widget to display a list of authors including the number of published posts."
+msgstr ""
+
+#: includes/widgets/mh-authors.php:65
+#@ mh
+msgid "Limit Author Number:"
+msgstr ""
+
+#: includes/widgets/mh-authors.php:69
+#@ mh
+msgid "Skip Authors (Offset):"
+msgstr ""
+
+#: includes/widgets/mh-authors.php:73
+#@ mh
+msgid "User Role:"
+msgstr ""
+
+#: includes/widgets/mh-authors.php:84
+#@ mh
+msgid "Order Authors by:"
+msgstr ""
+
+#: includes/widgets/mh-authors.php:86
+#@ mh
+msgid "Number of Posts"
+msgstr ""
+
+#: includes/widgets/mh-authors.php:87
+#@ mh
+msgid "User Name"
+msgstr ""
+
+#: includes/widgets/mh-carousel.php:7
+#@ mh
+msgid "Carousel widget for use on homepage template."
+msgstr ""
+
+#: includes/widgets/mh-carousel.php:82
+#: includes/widgets/mh-custom-posts.php:133
+#: includes/widgets/mh-nip.php:73
+#: includes/widgets/mh-slider.php:101
+#@ mh
+msgid "Multiple Categories Filter by ID:"
+msgstr ""
+
+#: includes/widgets/mh-carousel.php:90
+#: includes/widgets/mh-custom-posts.php:141
+#: includes/widgets/mh-nip.php:81
+#: includes/widgets/mh-slider.php:109
+#@ mh
+msgid "Limit Post Number:"
+msgstr ""
+
+#: includes/widgets/mh-carousel.php:94
+#: includes/widgets/mh-custom-posts.php:145
+#: includes/widgets/mh-nip.php:85
+#: includes/widgets/mh-slider.php:113
+#: includes/widgets/mh-spotlight.php:102
+#@ mh
+msgid "Skip Posts (Offset):"
+msgstr ""
+
+#: includes/widgets/mh-carousel.php:98
+#: includes/widgets/mh-custom-posts.php:149
+#: includes/widgets/mh-nip.php:89
+#: includes/widgets/mh-slider.php:117
+#: includes/widgets/mh-spotlight.php:106
+#@ mh
+msgid "Post Order:"
+msgstr ""
+
+#: includes/widgets/mh-carousel.php:100
+#: includes/widgets/mh-custom-posts.php:151
+#: includes/widgets/mh-nip.php:91
+#: includes/widgets/mh-slider.php:119
+#: includes/widgets/mh-spotlight.php:108
+#@ mh
+msgid "Latest Posts"
+msgstr ""
+
+#: includes/widgets/mh-carousel.php:101
+#: includes/widgets/mh-custom-posts.php:152
+#: includes/widgets/mh-nip.php:92
+#: includes/widgets/mh-slider.php:120
+#: includes/widgets/mh-spotlight.php:109
+#@ mh
+msgid "Random Posts"
+msgstr ""
+
+#: includes/widgets/mh-carousel.php:102
+#: includes/widgets/mh-custom-posts.php:153
+#: includes/widgets/mh-nip.php:93
+#: includes/widgets/mh-slider.php:121
+#: includes/widgets/mh-spotlight.php:110
+#@ mh
+msgid "Popular Posts"
+msgstr ""
+
+#: includes/widgets/mh-comments.php:7
+#@ mh
+msgid "MH Recent Comments widget to display your recent comments including user avatars."
+msgstr ""
+
+#: includes/widgets/mh-comments.php:51
+#@ mh
+msgid "Limit Comment Number:"
+msgstr ""
+
+#: includes/widgets/mh-comments.php:55
+#@ mh
+msgid "Skip Comments (Offset):"
+msgstr ""
+
+#: includes/widgets/mh-custom-pages.php:7
+#@ mh
+msgid "Custom Pages Widget to display pages based on page IDs."
+msgstr ""
+
+#: includes/widgets/mh-custom-pages.php:8
+#@ mh
+msgid "MH Custom Pages"
+msgstr ""
+
+#: includes/widgets/mh-custom-pages.php:75
+#@ mh
+msgid "Title (optional):"
+msgstr ""
+
+#: includes/widgets/mh-custom-pages.php:79
+#@ mh
+msgid "Link Title to URL (optional):"
+msgstr ""
+
+#: includes/widgets/mh-custom-pages.php:83
+#@ mh
+msgid "Filter Pages by ID (comma separated):"
+msgstr ""
+
+#: includes/widgets/mh-custom-pages.php:87
+#: includes/widgets/mh-custom-posts.php:157
+#@ mh
+msgid "Display Excerpts:"
+msgstr ""
+
+#: includes/widgets/mh-custom-pages.php:89
+#@ mh
+msgid "Excerpt for first Page"
+msgstr ""
+
+#: includes/widgets/mh-custom-pages.php:90
+#@ mh
+msgid "Excerpt for all Pages"
+msgstr ""
+
+#: includes/widgets/mh-custom-pages.php:91
+#: includes/widgets/mh-custom-posts.php:161
+#@ mh
+msgid "No Excerpts"
+msgstr ""
+
+#: includes/widgets/mh-custom-pages.php:95
+#: includes/widgets/mh-custom-posts.php:165
+#: includes/widgets/mh-slider.php:139
+#: includes/widgets/mh-spotlight.php:121
+#@ mh
+msgid "Excerpt Character Limit:"
+msgstr ""
+
+#: includes/widgets/mh-custom-pages.php:99
+#: includes/widgets/mh-custom-posts.php:173
+#@ mh
+msgid "Thumbnails:"
+msgstr ""
+
+#: includes/widgets/mh-custom-pages.php:101
+#: includes/widgets/mh-custom-posts.php:175
+#@ mh
+msgid "Show all Thumbnails"
+msgstr ""
+
+#: includes/widgets/mh-custom-pages.php:102
+#: includes/widgets/mh-custom-posts.php:176
+#@ mh
+msgid "Hide all Thumbnails"
+msgstr ""
+
+#: includes/widgets/mh-custom-pages.php:103
+#: includes/widgets/mh-custom-posts.php:177
+#@ mh
+msgid "Hide only large Thumbnails"
+msgstr ""
+
+#: includes/widgets/mh-custom-pages.php:104
+#: includes/widgets/mh-custom-posts.php:178
+#@ mh
+msgid "Hide only small Thumbnails"
+msgstr ""
+
+#: includes/widgets/mh-custom-posts.php:7
+#@ mh
+msgid "Custom Posts Widget to display posts based on categories or tags."
+msgstr ""
+
+#: includes/widgets/mh-custom-posts.php:159
+#@ mh
+msgid "Excerpt for first Post"
+msgstr ""
+
+#: includes/widgets/mh-custom-posts.php:160
+#@ mh
+msgid "Excerpt for all Posts"
+msgstr ""
+
+#: includes/widgets/mh-custom-posts.php:169
+#@ mh
+msgid "Link Title to custom URL (optional):"
+msgstr ""
+
+#: includes/widgets/mh-custom-posts.php:187
+#@ mh
+msgid "Hide Date"
+msgstr ""
+
+#: includes/widgets/mh-custom-posts.php:191
+#@ mh
+msgid "Hide Comment Count"
+msgstr ""
+
+#: includes/widgets/mh-custom-slider.php:7
+#@ mh
+msgid "Custom Slider Widget to display custom content for use on homepage template."
+msgstr ""
+
+#: includes/widgets/mh-custom-slider.php:8
+#@ mh
+msgid "MH Custom Slider Widget"
+msgstr ""
+
+#: includes/widgets/mh-custom-slider.php:114
+#: includes/widgets/mh-custom-slider.php:132
+#: includes/widgets/mh-custom-slider.php:150
+#: includes/widgets/mh-custom-slider.php:168
+#: includes/widgets/mh-custom-slider.php:186
+#@ mh
+msgid "Slide"
+msgstr ""
+
+#: includes/widgets/mh-custom-slider.php:120
+#: includes/widgets/mh-custom-slider.php:138
+#: includes/widgets/mh-custom-slider.php:156
+#: includes/widgets/mh-custom-slider.php:174
+#: includes/widgets/mh-custom-slider.php:192
+#@ mh
+msgid "Custom URL:"
+msgstr ""
+
+#: includes/widgets/mh-custom-slider.php:124
+#: includes/widgets/mh-custom-slider.php:142
+#: includes/widgets/mh-custom-slider.php:160
+#: includes/widgets/mh-custom-slider.php:178
+#: includes/widgets/mh-custom-slider.php:196
+#@ mh
+msgid "Custom Image URL:"
+msgstr ""
+
+#: includes/widgets/mh-custom-slider.php:128
+#: includes/widgets/mh-custom-slider.php:146
+#: includes/widgets/mh-custom-slider.php:164
+#: includes/widgets/mh-custom-slider.php:182
+#: includes/widgets/mh-custom-slider.php:200
+#@ mh
+msgid "Custom Excerpt:"
+msgstr ""
+
+#: includes/widgets/mh-custom-slider.php:204
+#@ mh
+msgid "Slider Settings"
+msgstr ""
+
+#: includes/widgets/mh-facebook-likebox.php:7
+#@ mh
+msgid "Widget to display a Facebook likebox in your sidebar."
+msgstr ""
+
+#: includes/widgets/mh-nip.php:7
+#@ mh
+msgid "News in Pictures Widget to display a gallery of thumbnails linked to the post content."
+msgstr ""
+
+#: includes/widgets/mh-slider.php:7
+#@ mh
+msgid "Slider widget for use on homepage template."
+msgstr ""
+
+#: includes/widgets/mh-slider.php:125
+#@ mh
+msgid "Slider Image Size:"
+msgstr ""
+
+#: includes/widgets/mh-slider.php:148
+#: includes/widgets/mh-spotlight.php:126
+#@ mh
+msgid "Disable Excerpt"
+msgstr ""
+
+#: includes/widgets/mh-social.php:7
+#@ mh
+msgid "Widget to display linked social media icons in sidebar or footer."
+msgstr ""
+
+#: includes/widgets/mh-social.php:165
+#@ mh
+msgid "Open Links in new Window / Tab"
+msgstr ""
+
+#: includes/widgets/mh-social.php:169
+#@ mh
+msgid "Set Links to nofollow"
+msgstr ""
+
+#: includes/widgets/mh-spotlight.php:7
+#@ mh
+msgid "Spotlight / Featured widget for use on homepage template."
+msgstr ""
+
+#: includes/widgets/mh-spotlight.php:130
+#@ mh
+msgid "Disable Post Meta"
+msgstr ""
+
+#: includes/widgets/mh-spotlight.php:134
+#@ mh
+msgid "Disable Comments"
+msgstr ""
+
