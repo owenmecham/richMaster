@@ -2,7 +2,7 @@
 <html class="no-js<?php mh_html_class(); ?>" <?php language_attributes(); mh_html_tag(); ?>>
 <head>
 <meta charset="<?php bloginfo('charset'); ?>">
-<title><?php wp_title('|', true, 'right'); ?></title>
+<title><?php bloginfo('name'); ?> | <?php is_front_page() ? bloginfo('description') : wp_title(''); ?></title>
 <?php wp_head(); ?>
 </head>
 <body id="<?php mh_body_id(); ?>" <?php body_class(); ?>> 

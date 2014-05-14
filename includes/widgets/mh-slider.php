@@ -48,14 +48,17 @@ class mh_slider_hp_widget extends WP_Widget {
 							}
 						} ?>
 					</a>
+                    <?php if ($excerpt == 0) { ?>
 					<div class="slide-caption">
 						<div class="slide-data">
+                        	<!-- excerpt = <?php  echo $excerpt; ?>-->
 							<a href="<?php the_permalink(); ?>" title="<?php the_title(); ?>"><h2 class="slide-title"><?php the_title(); ?></h2></a>
 							<?php if ($excerpt == 0) { ?>
 								<?php mh_excerpt($excerpt_length); ?>
 							<?php } ?>
 						</div>
 					</div>
+                    <?php } ?>
 				</article>
 				</li><?php
 			endwhile; wp_reset_postdata(); ?>
